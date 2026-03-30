@@ -1,5 +1,5 @@
 <?php
-require_once "Row.php";
+require_once "../Row.php";
 
 class Category extends Row {
     public $tableName = "category";
